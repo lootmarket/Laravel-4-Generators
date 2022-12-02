@@ -13,13 +13,13 @@
         "illuminate/support": "^8.0 || ^9.0"
     },
     "require-dev": {
-        "phpspec/phpspec": "^2.0",
-        "behat/behat": "^2.5.1",
-        "behat/mink": "^1.5.0",
-        "behat/mink-extension": "^1.2.0",
-        "behat/mink-goutte-driver": "^1.0.9",
-        "behat/mink-selenium2-driver": "^1.1.1",
-        "phpunit/phpunit": "^3.7"
+        "phpspec/phpspec": "^7.0",
+        "behat/behat": "^3",
+        "behat/mink": "^1.10.0",
+        "behat/mink-extension": "^2.3",
+        "behat/mink-goutte-driver": "^2.0",
+        "behat/mink-selenium2-driver": "^1.6",
+        "phpunit/phpunit": "^9.5"
     },
     "autoload": {
         "psr-0": {
